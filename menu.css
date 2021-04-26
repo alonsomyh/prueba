@@ -1,0 +1,256 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+
+#secmenute{
+  margin: auto;
+  width: 100%;
+  height: 53px;
+  font-family: Ariel, Helvetica, sans-serif;
+  background: rgba(0, 0, 0, 0.1);
+}
+
+/*   ARTUUUUU*/
+
+#artulmenu{
+  width: 80px;
+  height: 53px;
+  background: rgba(0, 0, 0, 0);
+  position: relative;
+  top: 0px;
+  left: 480px;
+  font-family: Bahnschrift;
+  font-size: 17px;
+}
+
+#artulmenu-2{
+  width: 125px;
+  height: 53px;
+  background: rgba(0, 0, 0, 0);
+  position: relative;
+  top: -53px;
+  left: 561px;
+  font-family: Bahnschrift;
+  font-size: 17px;
+}
+
+#artulmenu-3{
+  width: 180px;
+  height: 53px;
+  background: rgba(0, 0, 0, 0);
+  position: relative;
+  top: -106px;
+  left: 828px;
+  font-family: Bahnschrift;
+  font-size: 17px;
+}
+
+#lipd{
+  width: 60px;
+  height: 40px;
+  color: #777777;
+  position: relative;
+  top: 15px;
+  left: 15px;
+}
+
+#lipd-1{
+  width: 350px;
+  height: 40px;
+  color: #777777;
+  position: relative;
+  top: 15px;
+  left: 15px;
+}
+
+#subeh{
+  width: 60px;
+  height: 40px;
+  color: black;
+  position: relative;
+  top: 10px;
+  background: yellow;
+  left: -15px;
+
+}
+
+#ehol{
+  text-decoration: none;
+}
+
+
+
+
+
+
+/* menu desplegable  */
+
+#menute{
+  margin: auto;
+  width: 140px;
+  height: 30px;
+  font-family: Bahnschrift, Helvetica, sans-serif;
+  background: rgba(0, 0, 0, 0);
+  position: relative;
+  top: -53px;
+  left: -35px;
+}
+
+
+ul, ol{
+  list-style: none;
+}
+
+.ulmenu li a{
+  background: rgba(0, 0, 0, 0);
+  color: #777777;
+  text-decoration: none; 
+  padding: 5px 20px 20px;
+  display: block;
+  position: relative;
+  top: 0px;
+  font-size: 17px;
+  cursor: context-menu;
+}
+
+
+/* al pasar el cursos color  */
+
+.ulmenu li a:hover{
+  background-color: ;
+
+}
+
+/* terminar al cursor  */
+
+.ulmenu>li{
+  position: relative;
+  float: center;
+  top:10px;
+}
+
+/* submenu */
+.ulmenu li ul{
+  display: none;
+  position: relative;
+  width: 1586px;
+  height: 100px;
+  background: white;
+  left: -690px;
+  top: -2px;
+}
+
+.ulmenu li:hover >ul{
+  display: block;
+  position: relative;
+  z-index: 6;
+}
+
+/*  submenu imagen   */
+
+#submenu-1{
+  background: white;
+  width: 100%;
+  height: 400px;
+  position: relative;
+  top: 0px;
+  z-index: 7;
+  box-shadow: 50px 300px 100px 150px rgba(0,0,0,0.3);
+}
+
+/* article-sub-menu */
+
+#article-menu-1{
+  width: 250px;
+  height: 200px;
+  background: #60C5F1;
+  position: relative;
+  top: 20px;
+  left: 30px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+#article-menu-2{
+  width: 250px;
+  height: 200px;
+  background: #8389E0;
+  position: relative;
+  top: -180px;
+  left: 300px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+#article-menu-3{
+  width: 250px;
+  height: 200px;
+  background: #FFB27D;
+  position: relative;
+  top: -380px;
+  left: 570px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+/* imagenes produc menu*/
+
+#img-menu-1{
+  width: 130px;
+  height: 150px;
+  position: relative;
+  top: 30px;
+  left: 90px;
+
+}
+
+#img-menu-2{
+  width: 130px;
+  height: 100px;
+  position: relative;
+  top: 75px;
+  left: 90px;
+  
+}
+
+
+#img-menu-3{
+  width: 200px;
+  height: 150px;
+  position: relative;
+  top: 50px;
+  left: 50px;
+  
+}
+
+/* texto menu */
+
+#con-tex-menu-1{
+  color: white;
+  position: relative;
+  top: -120px;
+  font-family: Bahnschrift;
+  font-size: 25px;
+}
+
+#con-tex-menu-2{
+  color: white;
+  position: relative;
+  top: -75px;
+  font-family: Bahnschrift;
+  font-size: 25px;
+}
+
+#con-tex-menu-3{
+  color: white;
+  position: relative;
+  top: -125px;
+  font-family: Bahnschrift;
+  font-size: 25px;
+}
+
+#press{
+  cursor: pointer;
+}

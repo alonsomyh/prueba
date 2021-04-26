@@ -1,0 +1,251 @@
+#arip{
+	width: 100%;
+	height: 120px;
+	background: #19829D;
+}
+
+#logo-inicio{
+	width: 250px;
+	height: 100px;
+	position: relative;
+	top: 8px;
+	left: 100px;
+}
+
+#logo-fac{
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: -40px;
+	left: 1090px;
+}
+#logo-ins{
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: -40px;
+	left: 1100px;
+}
+#logo-tel{
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: -40px;
+	left: 1110px;
+}
+#logo-ubi{
+	width: 90px;
+	height: 30px;
+	position: relative;
+	top: 0px;
+	left: 1000px;
+}
+
+/*  imagenes   */
+
+#imagenstamn{
+	width: 110px;
+	height: 300px;
+	position: relative;
+	top: 120px;
+}
+
+#pro-1{
+	width: 360px;
+	height: 200px;
+	position: relative;
+	top: -60px;
+	left: 240px;
+	z-index: 1;
+	border-radius: 10px;
+}
+
+#pro-2{
+	width: 360px;
+	height: 200px;
+	position: relative;
+	top: -260px;
+	left: 620px;
+	z-index: 2;
+	border-radius: 10px;
+}
+
+#pro-3{
+	width: 360px;
+	height: 200px;
+	position: relative;
+	top: -460px;
+	left: 999px;
+	z-index: 3;
+	border-radius: 10px;
+}
+
+/* section de producto  */
+
+#sec{
+	width: 1250px;
+	height: 448px;
+	background: #fff;
+	border-radius: 19px 19px 13px 13px;
+	color: white;
+	font-family: Bahnschrift;
+	font-size: 35px;
+	position: relative;
+	top: 18px;
+	left: 180px;
+	text-indent: 50px;
+	box-shadow: 0px 0px 60px 15px #CFD2D7;
+}
+
+#solo{
+	width: 1250px;
+	height: 60px;
+	background: #046A38;
+	border-radius: 19px 19px 0px 0px;
+}
+
+/* article-1  */
+
+#article-1{
+	width: 190px;
+	height: 388px;
+	background: #fff;
+	border-radius: 10px;
+	position: relative;
+	top: 0px;
+	left: 30px;
+	box-shadow: 1px 1px 1px 0px #CFD2D7;
+
+}
+
+#article-2{
+	width: 190px;
+	height: 388px;
+	background: #fff;
+	border-radius: 10px;
+	position: relative;
+	top: -388px;
+	left: 280px;
+	box-shadow: 1px 1px 1px 0px #CFD2D7;
+}
+
+#article-3{
+	width: 190px;
+	height: 388px;
+	background: #fff;
+	border-radius: 10px;
+	position: relative;
+	top: -776px;
+	left: 529px;
+	box-shadow: 1px 1px 1px 0px #CFD2D7;
+}
+
+#article-4{
+	width: 190px;
+	height: 388px;
+	background: #fff;
+	border-radius: 10px;
+	position: relative;
+	top: -1164px;
+	left: 779px;
+	box-shadow: 1px 1px 1px 0px #CFD2D7;
+}
+
+#article-5{
+	width: 190px;
+	height: 388px;
+	background: #fff;
+	border-radius: 10px;
+	position: relative;
+	top: -1552px;
+	left: 1029px;
+}
+
+/*  producto-1  */
+
+.tel{
+	width: 160px;
+	height: 110px;
+	position: relative;
+	top: 40px;
+	left: -35px;
+}
+
+.des{
+	width: 165px;
+	height: 110px;
+	font-size: 15px;
+	font-family:Calibri Light;
+	color: black;
+	position: relative;
+	top: 50px;
+	text-indent: 2px;
+	left: 10px;
+}
+
+.tex{
+	font-size: 9px;
+	font-family:  Calibri Light;
+	color: #6B6D7E;
+	position: relative;
+	top: -10px;
+	z-index: 1;
+	text-indent: 10px;
+}
+
+.prec{
+	font-size: 20px;
+	font-family:  Bahnschrift;
+	color: red;
+	position: relative;
+	top: 30px;
+	text-indent: 10px;
+}
+
+.ver{
+	width: 130px;
+	height: 30px;
+	background: #4DA80A;
+	font-size: 15px;
+	font-family:  Bahnschrift;
+	color: white;
+	position: relative;
+	top: 60px;
+	left: 15px;
+	text-indent: 5px;
+	text-align: center;
+	border-radius: 8px;
+	padding-top: 10px;
+}
+
+.sub{
+	text-decoration: none;
+}
+
+/*  imagenes  */
+
+.te1{
+	width: 120px;
+	height: 110px; 
+}
+
+#tampos{
+	background: white;
+	width:1000px;
+	height:200px;
+	position: relative;
+	top: 10px;
+	left: 0px;
+	z-index: 5;
+
+}
+
+/*#bot{
+	background: white;
+	color: blue;
+	width: 25px;
+	height: 18px;
+	position: relative;
+	top: -100px;
+	z-index: 10;
+}*/
